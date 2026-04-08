@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(cutefish-wallpapers)
+project(vasakos-wallpapers)
 
 add_subdirectory(sources)

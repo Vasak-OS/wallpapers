@@ -1,15 +1,15 @@
-Source: cutefish-wallpapers
+Source: vasakos-wallpapers
 Section: devel
 Priority: optional
-Maintainer: CutefishOS <support@cutefishos.com>
+Maintainer: VasakOS <os@vasak.net.ar>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules
 Standards-Version: 4.5.0
-Homepage: https://cutefishos.com
+Homepage: https://os.vasak.net.ar
 
-Package: cutefish-wallpapers
+Package: vasakos-wallpapers
 Architecture: any
 Depends: ${misc:Depends},
          ${shlibs:Depends}
-Description: CutefishOS Wallpapers
+Description: VasakOS Wallpapers
